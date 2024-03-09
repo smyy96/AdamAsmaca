@@ -1,0 +1,14 @@
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\bin\Debug\net6.0\AdamAsmacaOyunu2.0.exe
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\bin\Debug\net6.0\AdamAsmacaOyunu2.0.deps.json
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\bin\Debug\net6.0\AdamAsmacaOyunu2.0.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\bin\Debug\net6.0\AdamAsmacaOyunu2.0.dll
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\bin\Debug\net6.0\AdamAsmacaOyunu2.0.pdb
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\obj\Debug\net6.0\AdamAsmacaOyunu2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\obj\Debug\net6.0\AdamAsmacaOyunu2.0.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\obj\Debug\net6.0\AdamAsmacaOyunu2.0.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\obj\Debug\net6.0\AdamAsmacaOyunu2.0.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\obj\Debug\net6.0\AdamAsmacaOyunu2.0.dll
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\obj\Debug\net6.0\refint\AdamAsmacaOyunu2.0.dll
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\obj\Debug\net6.0\AdamAsmacaOyunu2.0.pdb
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\obj\Debug\net6.0\AdamAsmacaOyunu2.0.genruntimeconfig.cache
+C:\Users\Sumeyye\source\repos\Ank16\sumeyye.coskun\ANK16.SC\AdamAsmacaOyunu2.0\obj\Debug\net6.0\ref\AdamAsmacaOyunu2.0.dll
